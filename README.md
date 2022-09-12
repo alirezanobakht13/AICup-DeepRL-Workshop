@@ -1,6 +1,6 @@
 # AICup Deep Reinforcement Learning Workshop
 
-codes and slide of AICup Deep Reinforcement Learning Workshop.
+codes and slides of AICup Deep Reinforcement Learning Workshop.
 
 install dependencies using:
 ```bash
